@@ -12,7 +12,7 @@ Clean and responsive design
 
 Sections about crops and farming
 
-Simple navigation
+Simple Platform
 
 🛠 Tech Used
 
