@@ -1,23 +1,14 @@
-Guess game
-
+# Agrihub
 A simple agriculture website/project.
-
-🌍 Live Demo
-
+## 🌍 Live Demo
 https://mr-danix.github.io/Agrihub/
 
-🚀 Features
+## 🚀 Features
+- Clean and responsive design
+- Sections about crops and farming
+- Simple navigation
 
-Clean and responsive design
-
-Sections about crops and farming
-
-Simple Platform
-
-🛠 Tech Used
-
-HTML
-
-CSS
-
-JavaScript
+## 🛠 Tech Used
+- HTML
+- CSS
+- JavaScript
