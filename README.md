@@ -7,6 +7,7 @@ A simple guessing game
 https://mr-danix.github.io/Guess-game/
 
 ## 🚀 Features
+
 - Clean and responsive design
 - Simple Platform
 
