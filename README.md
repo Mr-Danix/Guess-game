@@ -12,6 +12,7 @@ https://mr-danix.github.io/Guess-game/
 - Simple Platform
 
 ## 🛠 Tech Used
+
 - HTML
 - CSS
 - JavaScript
