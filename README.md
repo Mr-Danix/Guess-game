@@ -1,6 +1,6 @@
 # Guess game
 
-A simple guessing game                
+A simple guessing game             
 
 ## 🌍 Live Demo
 
